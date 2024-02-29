@@ -21,7 +21,8 @@ requirements:
     - pip
   run:
     - python >=3.9
-    - wagtail >=4.2.2
+    - wagtail >=5.2
+    - wagtail-modeladmin >=2.0.0
 
 test:
   imports:
